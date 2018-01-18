@@ -1,0 +1,22 @@
+{
+  "name": "jss-not-refreshing-global-styles-with-link-true",
+  "description": null,
+  "version": "0.0.0",
+  "dependencies": {
+    "react-jss": "8.2.1",
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "jss-preset-default": "4.0.1",
+    "jss-global": "3.0.0",
+    "jss": "9.5.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
